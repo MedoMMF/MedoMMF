@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-567.gif">
 Cybersecurity Field</h3>
 
-- 🌱 I’m currently learning **Network & Pentest**
+- 💻 I’m currently learning **Network & Pentest**
 
 - 👨‍💻 All of my projects are available at [https://rxrow.github.io/Portflio-MMF/](https://rxrow.github.io/Portflio-MMF/)
 
